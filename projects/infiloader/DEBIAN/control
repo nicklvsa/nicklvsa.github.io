@@ -1,0 +1,9 @@
+Package: com.nicksdesk.main.Main
+Name: Ifiniloader
+Depends: winterboard
+Version 1.0
+Architecture: iphoneos-arm
+Description: A Cool Theme!
+Maintainer: Nicklvsa
+Author: Nicklvsa
+Section: Themes (Springboard)
